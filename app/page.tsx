@@ -8,7 +8,7 @@ export default function Home() {
         <h2>hello</h2>
         </div>
         <div className="right">
-          hi
+          <h3>hi</h3>
         </div>
       </div>
       
