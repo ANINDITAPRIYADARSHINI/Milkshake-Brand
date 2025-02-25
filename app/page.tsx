@@ -5,7 +5,7 @@ export default function Home() {
     <main className="flex min-h-screen flex-col items-center justify-between p-24">
       <div className="flex flex-row gap-14">
         <div className="left">
-        <h1>hello</h1>
+        <h2>hello</h2>
         </div>
         <div className="right">
           hi
